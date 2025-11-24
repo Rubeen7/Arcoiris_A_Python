@@ -1,4 +1,4 @@
 
 print(" Programa de Colores del Arcoíris ")
-print("Rojo: simboliza pasión.")
+print("Rojo: El color de las fresas")
 print("Naranja: Una mezcla vibrante de rojo y amarillo.")
